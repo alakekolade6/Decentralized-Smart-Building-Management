@@ -5,3 +5,5 @@ T
 $contracts/building-verification.clar,9/c/9cfce92fa54ac830560cbd256a92e2a64647581c
 R
 "contracts/energy-optimization.clar,9/a/9a02cfe78605d69aed049ea1c7c3da4e5e02b7a7
+U
+%contracts/maintenance-scheduling.clar,f/7/f75564e007197f104115c4551443027923af5a64
