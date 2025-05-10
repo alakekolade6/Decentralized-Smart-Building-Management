@@ -9,3 +9,5 @@ U
 %contracts/maintenance-scheduling.clar,f/7/f75564e007197f104115c4551443027923af5a64
 Q
 !contracts/occupancy-tracking.clar,5/c/5cb06d7082d06d2518749c15641abb8edb08520e
+R
+"contracts/system-registration.clar,4/7/4726a671e5a94fe6f194f3c38c0e88917f681dd6
