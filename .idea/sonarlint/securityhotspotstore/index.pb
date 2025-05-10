@@ -11,3 +11,13 @@ Q
 !contracts/occupancy-tracking.clar,5/c/5cb06d7082d06d2518749c15641abb8edb08520e
 R
 "contracts/system-registration.clar,4/7/4726a671e5a94fe6f194f3c38c0e88917f681dd6
+S
+#tests/building-verification.test.ts,2/e/2e5d30ada7b834884d8d4b5c7be24585908d0f77
+Q
+!tests/energy-optimization.test.ts,f/7/f7e0db1eb01977e2c0319e63bdc904e6209dc889
+T
+$tests/maintenance-scheduling.test.ts,a/d/adeaaa7ee161d125c6a79c3d78c40688f3a402a4
+P
+ tests/occupancy-tracking.test.ts,8/7/8710fe76faa324bdb0a1fb814ef397d41debe2b0
+Q
+!tests/system-registration.test.ts,6/3/630da77b3037358ce4a614a095c76be30b1acb7a
